@@ -1,7 +1,7 @@
 # Hello, I'm Muthuselvam.M 👋
 
 ## About Me
-I am a dedicated and enthusiastic Technical Engineer with one year of experience at Sun TV Network. My skills and experience span across various AWS services, Linux, Java, and Bash scripting. I am passionate about software development and am currently seeking a Software Engineer position specializing in Java. 😊
+I am a dedicated and enthusiastic Junior Aws Cloud Engineer with Two years of experience at Sun TV Network. My skills and experience span across various AWS services, Linux, Java, and Bash scripting. I am passionate about software development and am currently seeking a Software Engineer position specializing in Java. 😊
 
 ## Skills
 - **AWS CloudWatch**: Experienced in monitoring and managing applications. 📊
@@ -14,8 +14,8 @@ I am a dedicated and enthusiastic Technical Engineer with one year of experience
 - **Bash Scripting**: Capable of writing and maintaining Bash scripts for automation and task management. 🔧
 
 ## Experience
-### Technical Engineer at Sun TV Network
-- **Duration**: 1 year
+### Junior AWS Cloud Engineer at Sun TV Network
+- **Duration**: 2 year
 - **Responsibilities**:
   - Managed and maintained server infrastructure. 🖥️
   - Developed automation scripts using Bash. 📝
